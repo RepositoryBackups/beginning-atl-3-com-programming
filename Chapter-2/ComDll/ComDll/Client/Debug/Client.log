@@ -1,0 +1,15 @@
+﻿Build started 1/13/2018 1:32:33 AM.
+     1>Project "C:\sahil\development\ComDll\ComDll\Client\Client.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\Client.tlog\unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\VC\Tools\MSVC\14.11.25503\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"C:\sahil\development\ComDll\ComDll\Debug\Client.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"C:\sahil\development\ComDll\ComDll\Debug\Client.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\sahil\development\ComDll\ComDll\Debug\Client.lib" /MACHINE:X86 Debug\Client.obj
+         Debug\stdafx.obj
+         Client.vcxproj -> C:\sahil\development\ComDll\ComDll\Debug\Client.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Client.tlog\unsuccessfulbuild".
+         Touching "Debug\Client.tlog\Client.lastbuildstate".
+     1>Done Building Project "C:\sahil\development\ComDll\ComDll\Client\Client.vcxproj" (Build target(s)).
